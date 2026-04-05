@@ -36,3 +36,11 @@ yarn-error.*
 # # Ignore environment files
 .env
 backend/.env
+
+
+node_modules/
+.env
+.expo/
+dist/
+build/
+backend/coverage/
